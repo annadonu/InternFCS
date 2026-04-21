@@ -1,0 +1,10 @@
+yandex_01;Backend Developer (C++);Yandex;Разработка высоконагруженных сервисов поиска.;https://yandex.ru/yaintern;backend,cpp,highload;15.05.2026
+yandex_02;ML Research Intern;Yandex;Обучение нейросетевых моделей для беспилотников.;https://yandex.ru/yaintern;ml,python,research;20.05.2026
+tinkoff_01;C++ Quant Developer;Tinkoff;Разработка торговых алгоритмов и систем риск-менеджмента.;https://fintech.tinkoff.ru;cpp,fintech,algorithms;10.05.2026
+tinkoff_02;SRE Intern;Tinkoff;Автоматизация инфраструктуры и поддержка облачных решений.;https://fintech.tinkoff.ru;sre,linux,devops;12.05.2026
+vk_01;Core ML Intern;VK;Оптимизация рекомендательных систем ВКонтакте.;https://internship.vk.company;ml,cpp,python;01.06.2026
+vk_02;Mobile Developer (iOS);VK;Создание новых фич для мессенджера и видео.;https://internship.vk.company;mobile,swift,ios;25.05.2026
+ozon_01;Golang Backend Intern;Ozon;Разработка микросервисов для маркетплейса.;https://job.ozon.ru/internship;backend,golang;18.05.2026
+ozon_02;Data Analyst;Ozon;Анализ поведения пользователей и юнит-экономика.;https://job.ozon.ru/internship;data,sql,python;15.05.2026
+sber_01;C++ Developer (Cybersecurity);Sber;Разработка защищенных систем и анализ угроз.;https://sbergraduate.ru;security,cpp;30.05.2026
+kaspersky_01;C++ Security Intern;Kaspersky;Исследование вредоносного кода.;https://safeboard.kaspersky.ru;security,cpp;10.06.2026
